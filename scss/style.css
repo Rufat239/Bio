@@ -1,0 +1,39 @@
+.head {
+  background-color: #3b343b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+}
+.head h1 {
+  color: white;
+}
+
+.section {
+  display: flex;
+  justify-content: space-between;
+}
+.section .sec-part1 {
+  width: 35rem;
+  margin-left: 50px;
+}
+.section .sec-part1 .part-1 {
+  display: flex;
+  justify-content: space-around;
+}
+.section .sec-part1 .part-1 img {
+  width: 200px;
+  margin-right: 15px;
+}
+.section .sec-part1 .part-1 p {
+  margin: 0;
+}
+.section .sec-part1 .part-1 p a {
+  color: red;
+}
+.section .sec-part2 {
+  margin-right: 200px;
+}
+.section .sec-part2 ul li a {
+  color: red;
+}/*# sourceMappingURL=style.css.map */
